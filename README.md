@@ -19,7 +19,7 @@ If you use the ReLEAP framework for your research, please use the following BibT
 
 ```BibTeX
 @InProceedings{Simon_2026_ACCV,
-    author    = {Simon, Julia and Trondl, Andreas and Steininger, Daniel},
+    author    = {Simon, Julia and Steininger, Daniel and Trondl, Andreas},
     title     = {ReLEAP: Upcycling Vision Datasets through Cross-Task Unification and Semi-Supervised Annotation},
     booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
     month     = {December},
