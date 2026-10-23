@@ -13,6 +13,12 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 
+## Acknowledgments
+
+This research was funded by the Austrian Research Promotion Agency (FFG) under the BRIDGE-Project PADUA (FO999915101).
+
+We thank [Farm-ING](https://farm-ing.com) and [WALDLAND](https://www.waldland.at) for their continued collaboration and valuable domain expertise, which helped inform the practical context of this work.
+
 ## Citing
 
 If you use the ReLEAP framework for your research, please use the following BibTeX entry:
